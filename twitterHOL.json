@@ -1,0 +1,8 @@
+{
+    "RowKey":"@{body('Detect_Sentiment')?['id']}",
+    "Name":"@{triggerBody()?['UserDetails']?['FullName']}",
+    "PartitionKey":"negative",
+    "Location":"@{triggerBody()?['UserDetails']?['Location']}",
+    "Score":"@{body('Detect_Sentiment')?['score']}",
+    "Tweet":"@{triggerBody()?['OriginalTweet']?['TweetText']}"
+}

@@ -1,0 +1,12 @@
+DetectSentiment Endpoint
+https://eastus.api.cognitive.microsoft.com/text/analytics/v2.0
+
+Key 1
+623358faee1d4b518a93f91d5e9c140d
+
+Primary Table Service Endpoint
+https://twitterholdstorage1234.table.core.windows.net/
+
+Access key1
+VRoKY2jw/b7pjl2BjH/0rfLKxhQFpPlpZiMMGI8L/iReSo5kkmf3c7+LfnJaoIwbmjtgx5Ph/HKzQakG3+VaMw==
+
